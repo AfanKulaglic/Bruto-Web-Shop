@@ -1,0 +1,43 @@
+{
+  "name": "bruto.ba",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@date-io/date-fns-jalali": "^2.16.0",
+    "@emotion/react": "^11.10.4",
+    "@emotion/styled": "^11.10.4",
+    "@material-ui/lab": "^4.0.0-alpha.61",
+    "@mui/icons-material": "^5.10.3",
+    "@mui/lab": "^5.0.0-alpha.99",
+    "@mui/material": "^5.10.5",
+    "@mui/x-date-pickers": "^5.0.3",
+    "alloyfinger": "^0.1.16",
+    "axios": "^0.27.2",
+    "bootstrap": "^5.2.1",
+    "date-fns": "^2.29.3",
+    "date-fns-jalali": "^2.29.3-0",
+    "next": "12.3.0",
+    "react": "^18.2.0",
+    "react-bootstrap": "^2.5.0",
+    "react-credit-card-input": "^1.1.5",
+    "react-dom": "^18.2.0",
+    "react-fullscreen-image": "0.0.3",
+    "react-imageslides": "^3.0.0-beta.2",
+    "react-player": "^2.11.0",
+    "react-router-dom": "^6.4.1",
+    "react-simple-image-slider": "^2.4.1",
+    "redux": "^4.2.0",
+    "styled-components": "^5.3.6",
+    "video-react": "^0.15.0"
+  },
+  "devDependencies": {
+    "eslint": "8.23.1",
+    "eslint-config-next": "12.3.0"
+  }
+}

@@ -1,0 +1,133 @@
+.appBar {
+  background-color: #4a81f7;
+  background-attachment: fixed;
+  color: white;
+}
+.badgeCard {
+  display: flex;
+  justify-content: center;
+  padding: 2vh;
+}
+.body {
+  color:white
+}
+.homeCard {
+  margin-top:-1vh;
+}
+.accordion {
+  background-color: #4a81f7;
+}
+.homeBorder {
+  color:black;
+  display: flex;
+  width: 100%;
+  background-size: contain;
+  margin-top: -0.8vh;
+  height: auto;
+  border-bottom-right-radius: 2vh;
+}
+.homeBorder img {
+  border-bottom-right-radius: 3vh;  
+  border-bottom-left-radius: 3vh;
+}
+.advantages {
+  overflow: scroll;
+  color: black;
+  display: flex;
+  background-attachment: scroll;
+  background-size: cover;
+  display: flex;
+  justify-content: start;
+}
+.advantages1 {
+  width: 50vh;
+  color: #4a81f7;
+  margin-left: 2vh;
+}
+.signUpCard {
+  margin: 1.5vh;
+  background-color: #4a81f7;
+  padding: 2vh;
+  padding-top: 20vh;
+  height: 50vh;
+}
+.signUpCard:hover {
+  background-color: silver;
+}
+.ratingHome {
+  background-color: black;
+  color: white;
+  display: flex;
+  justify-content: start;
+  overflow: hidden;
+}
+.footer {
+  display: flex;
+  color: white;
+  background-color: black;
+  flex-direction: column;
+  overflow: hidden;
+}
+.footer h5 {
+  margin-top: 0.5vh;
+  margin-left: 1vh;
+}
+.footer h3 {
+  margin-left: 1vh;
+}
+.helpAndInformation {
+  margin-left: 60vh;
+}
+.CardsHome {
+  border-radius: 5vh;
+  color: blue;
+}
+.CardsHome img {
+  border-radius: 5vh;
+}
+.ArticlesPage {
+  overflow: visible;
+  margin-top: 10vh;
+}
+.loadingCtx {
+  display: flex;
+  justify-content: center;
+  margin-top: 35vh;
+}
+.cardArticle {
+  background-color: green;
+  transition: transform .2s; /* Animation */
+  width: 100px;
+  height: 100px;
+  margin: 0;
+}
+.cardArticle:hover {
+  transform: scale(1.1);
+}
+.zoomImg {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+}
+
+.zoomImg  img {
+  width: 100%;
+  transition: all .3s ease-in-out;
+}
+
+.zoomImg img:hover   {
+  transform: scale(1.2);
+}
+.itemImage {
+  overflow: hidden;
+  margin-top: 8vh;
+}
+.Orders {
+  margin-top: 11vh;
+}
+.Login {
+  margin-top: 11vh
+}
+.Register {
+  margin-top: 11vh
+}

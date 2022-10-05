@@ -1,0 +1,169 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "name": "Gaming mis",
+      "image": "https://i.ibb.co/QbsT4gz/article.jpg",
+      "image1": "https://i.ibb.co/DY4MyT1/article3.jpg",
+      "image2": "https://i.ibb.co/Jdn02VR/article4.jpg",
+      "href": "Articles/",
+      "text": " Some quick example text to build on the card title and make up the bulk of the card's content.",
+      "baner": "https://i.ibb.co/yFkJTdc/baner-Usisivac.jpg",
+      "price": "200 Km"
+    },
+    {
+      "id": 2,
+      "name": "Pametni sat",
+      "image": "https://i.ibb.co/6PhjVF8/article1.jpg",
+      "image1": "https://i.ibb.co/DY4MyT1/article3.jpg",
+      "image2": "https://i.ibb.co/Jdn02VR/article4.jpg",
+      "href": "Articles/",
+      "text": " Some quick example text to build on the card title and make up the bulk of the card's content.",
+      "baner": "https://i.ibb.co/yFkJTdc/baner-Usisivac.jpg",
+      "price": "200 Km"
+    },
+    {
+      "id": 3,
+      "name": "Zlatni sat",
+      "image": "https://i.ibb.co/DY4MyT1/article3.jpg",
+      "image1": "https://i.ibb.co/DY4MyT1/article3.jpg",
+      "image2": "https://i.ibb.co/Jdn02VR/article4.jpg",
+      "href": "Articles/",
+      "text": " Some quick example text to build on the card title and make up the bulk of the card's content.",
+      "baner": "https://i.ibb.co/yFkJTdc/baner-Usisivac.jpg",
+      "price": "200 Km"
+    },
+    {
+      "id": 4,
+      "name": "Projektor",
+      "image": "https://i.ibb.co/Jdn02VR/article4.jpg",
+      "image1": "https://i.ibb.co/DY4MyT1/article3.jpg",
+      "image2": "https://i.ibb.co/Jdn02VR/article4.jpg",
+      "href": "Articles/",
+      "text": " Some quick example text to build on the card title and make up the bulk of the card's content.",
+      "baner": "https://i.ibb.co/yFkJTdc/baner-Usisivac.jpg",
+      "price": "200 Km"
+    },
+    {
+      "id": 5,
+      "name": "Retrovizori za biciklo",
+      "image": "https://i.ibb.co/PDytZym/article5.jpg",
+      "image1": "https://i.ibb.co/DY4MyT1/article3.jpg",
+      "image2": "https://i.ibb.co/Jdn02VR/article4.jpg",
+      "href": "Articles/",
+      "text": " Some quick example text to build on the card title and make up the bulk of the card's content.",
+      "baner": "https://i.ibb.co/yFkJTdc/baner-Usisivac.jpg",
+      "price": "200 Km"
+    },
+    {
+      "id": 6,
+      "name": "Osvjezivac zraka",
+      "image": "https://i.ibb.co/rtNNKvJ/article6.jpg",
+      "image1": "https://i.ibb.co/DY4MyT1/article3.jpg",
+      "image2": "https://i.ibb.co/Jdn02VR/article4.jpg",
+      "href": "Articles/",
+      "text": " Some quick example text to build on the card title and make up the bulk of the card's content.",
+      "baner": "https://i.ibb.co/yFkJTdc/baner-Usisivac.jpg",
+      "price": "200 Km"
+    },
+    {
+      "id": 7,
+      "name": "Brzinomjer HUD",
+      "image": "https://i.ibb.co/jfXT20K/article7.jpg",
+      "image1": "https://i.ibb.co/DY4MyT1/article3.jpg",
+      "image2": "https://i.ibb.co/Jdn02VR/article4.jpg",
+      "href": "Articles/",
+      "text": " Some quick example text to build on the card title and make up the bulk of the card's content.",
+      "baner": "https://i.ibb.co/yFkJTdc/baner-Usisivac.jpg",
+      "price": "200 Km"
+    },
+    {
+      "id": 8,
+      "name": "Pametni usisivac",
+      "image": "https://i.ibb.co/dPW5fx8/article8.jpg",
+      "image1": "https://i.ibb.co/DY4MyT1/article3.jpg",
+      "image2": "https://i.ibb.co/Jdn02VR/article4.jpg",
+      "href": "Articles/",
+      "text": " Some quick example text to build on the card title and make up the bulk of the card's content.",
+      "baner": "https://i.ibb.co/yFkJTdc/baner-Usisivac.jpg",
+      "price": "200 Km"
+    },
+    {
+      "id": 9,
+      "name": "Stalak za mobitel",
+      "image": "https://i.ibb.co/7JwfFLR/article10.jpg",
+      "image1": "https://i.ibb.co/DY4MyT1/article3.jpg",
+      "image2": "https://i.ibb.co/Jdn02VR/article4.jpg",
+      "href": "Articles/",
+      "text": " Some quick example text to build on the card title and make up the bulk of the card's content.",
+      "baner": "https://i.ibb.co/yFkJTdc/baner-Usisivac.jpg",
+      "price": "200 Km"
+    },
+    {
+      "id": 10,
+      "name": "Zenski sat",
+      "image": "https://i.ibb.co/vYLpXqZ/article13.jpg",
+      "image1": "https://i.ibb.co/DY4MyT1/article3.jpg",
+      "image2": "https://i.ibb.co/Jdn02VR/article4.jpg",
+      "href": "Articles/",
+      "text": " Some quick example text to build on the card title and make up the bulk of the card's content.",
+      "baner": "https://i.ibb.co/yFkJTdc/baner-Usisivac.jpg",
+      "price": "200 Km"
+    }
+  ],
+  "orders": [
+    {
+      "name": "Afan",
+      "lastName": "Kulaglic",
+      "city": "Vogosca",
+      "postNumber": "71320",
+      "orderEngine": "BH Post Express",
+      "birthdayDate": "2001-05-16",
+      "id": 1
+    }
+  ],
+  "accounts": [
+    {
+      "name": "Amar",
+      "lastName": "Kulaglic",
+      "birthdayDate": "1996-06-03",
+      "phoneNumber": "067890654",
+      "emailAdress": "amarkul@gmail.com",
+      "country": "Bosnia",
+      "city": "Zenica",
+      "adress": "Titova, 12",
+      "postNumber": "61000",
+      "password": "nekasifra123",
+      "repeatPassword": "nekasifra123",
+      "id": 1
+    },
+    {
+      "name": "AmZelar",
+      "lastName": "Kuasdlaglic",
+      "birthdayDate": "1236-06-03",
+      "phoneNumber": "067890654",
+      "emailAdress": "kul@gmail.com",
+      "country": "Bosnia",
+      "city": "Zenica",
+      "adress": "Titova, 12",
+      "postNumber": "61000",
+      "password": "nekasifra123",
+      "repeatPassword": "nekasifra123",
+      "id": 2
+    },
+    {
+      "name": "Afan",
+      "lastName": "Kulaglic",
+      "birthdayDate": "2001-05-17",
+      "phoneNumber": "062576456",
+      "emailAdress": "afankul@gmail.com",
+      "country": "",
+      "city": "Sarajevo",
+      "adress": "Brace Krso,16",
+      "postNumber": "71000",
+      "password": "nekasifranesta123",
+      "repeatPassword": "nekasifranesta123",
+      "id": 3
+    }
+  ]
+}
