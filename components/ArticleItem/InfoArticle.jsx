@@ -33,7 +33,7 @@ export const InfoArticle = ({price,text,name}) => {
                 {nameW && <p style={{marginTop:'2vh',marginRight:'3px'}} onClick={() => {Router.push({ pathname: "/Cart", query: { name: Router.query.name } },'/Korpa')}}>{nameW}, stavi u korpu</p>}
                 <IconButton src='/Orders' ><Image src={shopIcon} height='22' width='22'/></IconButton>
             </div>
-        </Button > 
+        </Button> 
     </div>
   )
 }
