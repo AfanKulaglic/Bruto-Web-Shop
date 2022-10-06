@@ -28,7 +28,7 @@ export const FromOrder = () => {
 
     useEffect(() => {
         fetch('http://localhost:4000/items')
-        .then(res => {
+        .then(res =>  {
             return res.json()
         })
         .then(data => {
