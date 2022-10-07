@@ -164,62 +164,6 @@
       "password": "nekasifranesta123",
       "repeatPassword": "nekasifranesta123",
       "id": 3
-    },
-    {
-      "name": "Afan",
-      "lastName": "Kulaglic",
-      "birthdayDate": "2001-05-17",
-      "phoneNumber": "062576456",
-      "emailAdress": "afankul@gmail.com",
-      "country": "",
-      "city": "Sarajevo",
-      "adress": "Brace Krso,16",
-      "postNumber": "71000",
-      "password": "nekasifranesta123",
-      "repeatPassword": "nekasifranesta123",
-      "id": 3
-    },
-    {
-      "name": "Afan",
-      "lastName": "Kulaglic",
-      "birthdayDate": "2001-05-17",
-      "phoneNumber": "062576456",
-      "emailAdress": "afankul@gmail.com",
-      "country": "",
-      "city": "Sarajevo",
-      "adress": "Brace Krso,16",
-      "postNumber": "71000",
-      "password": "nekasifranesta123",
-      "repeatPassword": "nekasifranesta123",
-      "id": 3
-    },
-    {
-      "name": "Afan",
-      "lastName": "Kulaglic",
-      "birthdayDate": "2001-05-17",
-      "phoneNumber": "062576456",
-      "emailAdress": "afankul@gmail.com",
-      "country": "",
-      "city": "Sarajevo",
-      "adress": "Brace Krso,16",
-      "postNumber": "71000",
-      "password": "nekasifranesta123",
-      "repeatPassword": "nekasifranesta123",
-      "id": 3
-    },
-    {
-      "name": "Afan",
-      "lastName": "Kulaglic",
-      "birthdayDate": "2001-05-17",
-      "phoneNumber": "062576456",
-      "emailAdress": "afankul@gmail.com",
-      "country": "",
-      "city": "Sarajevo",
-      "adress": "Brace Krso,16",
-      "postNumber": "71000",
-      "password": "nekasifranesta123",
-      "repeatPassword": "nekasifranesta123",
-      "id": 3
     }
   ]
 }
